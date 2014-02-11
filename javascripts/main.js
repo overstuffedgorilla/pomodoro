@@ -14,5 +14,5 @@ $(function(){
       i=0
     document.getElementById("landing_image").setAttribute("src","images/"+images[i])
   }
-  setInterval(loopImages, 2000);
+  setInterval(loopImages, 3000);
 })

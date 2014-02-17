@@ -1,11 +1,8 @@
-var images=["pomodoro_screenshot_1_menu.jpg",
-  "pomodoro_screenshot_2_main_options.jpg",
-  "pomodoro_screenshot_3_notify_options.jpg",
-  "pomodoro_screenshot_4_voice_settings.jpg",
-  "pomodoro_screenshot_5_calendar_integration.jpg",
-  "pomodoro_screenshot_6_scripts.jpg",
-  "pomodoro_screenshot_7_global_shortcuts.jpg",
-  "pomodoro_screenshot_8_general_settings.jpg"]
+var images=["0_Timer_personal_time_manager_menu.png",
+  "1_Timer_properties.png",
+  "2_Timer_calendar_integration.png",
+  "3_Timer_applescript_integration.png",
+  "8_Timer_statistics.png"]
 $(function(){
   var i=0;
   var loopImages = function() {
